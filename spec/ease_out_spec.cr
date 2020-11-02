@@ -1,5 +1,5 @@
 require "spec"
-require "../src/garnet-tween/ease-out"
+require "../src/ease-out"
 
 include Garnet
 

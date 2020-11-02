@@ -1,1 +1,1 @@
-require "./garnet-tween/**"
+require "./**"

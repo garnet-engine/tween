@@ -1,5 +1,5 @@
 require "spec"
-require "../src/garnet-tween/linear"
+require "../src/linear"
 
 include Garnet
 
